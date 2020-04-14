@@ -29,10 +29,10 @@ function cargaImagenes()
    imgCactus = new Image();
    imgSuelo = new Image();
 
-   imgRex.src = "dinosaurio.png";
-   imgNube.src = "nube.png";
-   imgCactus.src = "cactus.png";
-   imgSuelo.src = "suelo.png";
+   imgRex.src = "https://i.imgur.com/itnONwb.jpg";
+   imgNube.src = "https://i.imgur.com/rEn1udz.png";
+   imgCactus.src = "https://i.imgur.com/ylgO8cB.png";
+   imgSuelo.src = "https://i.imgur.com/SfQfEWU.png";
 }
 
 var ancho = 700;
